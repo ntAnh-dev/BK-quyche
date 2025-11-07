@@ -1,0 +1,1813 @@
+[
+    {
+        "question": "Bộ phận nào chịu trách nghiệm tổ chức và điều phối hoạt động tư vấn cho người học?",
+        "startIndex": 0,
+        "endIndex": 1,
+        "correctAnswer": "Ban Cố vấn học tập",
+        "answer": [
+            "Tổ Tư vấn tâm lý",
+            "Ban Công tác sinh viên của đơn vị",
+            "Ban Cố vấn học tập",
+            "Văn phòng hỗ trợ sinh viên"
+        ]
+    },
+    {
+        "question": "Cán bộ QLLSV có nhiệm vụ liên hệ với gia đình sinh viên trong trường hợp nào?",
+        "startIndex": 7,
+        "endIndex": 8,
+        "correctAnswer": "Khi sinh viên bị cảnh báo học tập, bị xử lý kỷ luật, đình chỉ hoặc buộc thôi học",
+        "answer": [
+            "Khi sinh viên đăng ký tham gia nghiên cứu khoa học",
+            "Khi sinh viên đạt học bổng khuyến khích học tập",
+            "Khi sinh viên bị cảnh báo học tập, bị xử lý kỷ luật, đình chỉ hoặc buộc thôi học",
+            "Khi sinh viên có nguyện vọng đi thực tập tại doanh nghiệp"
+        ]
+    },
+    {
+        "question": "Sinh viên 'Hiểu biết và chấp hành pháp luật của Nhà nước, quy định của nhà trường và nơi cư trú' sẽ được cộng bao nhiêu điểm?",
+        "startIndex": 13,
+        "endIndex": 14,
+        "correctAnswer": "8 điểm",
+        "answer": [
+            "4 điểm",
+            "6 điểm",
+            "8 điểm",
+            "16 điểm"
+        ]
+    },
+    {
+        "question": "Khi cần giải quyết các vấn đề liên quan đến chương trình đào tạo, đăng ký học phần, lịch thi, sinh viên cần liên hệ với đơn vị nào?",
+        "startIndex": 19,
+        "endIndex": 20,
+        "correctAnswer": "Ban Đào tạo",
+        "answer": [
+            "Ban Đào tạo",
+            "Ban Công tác sinh viên",
+            "Ban Tuyển sinh — Hướng nghiệp",
+            "Văn phòng Trường/Khoa chuyên môn"
+        ]
+    },
+    {
+        "question": "Khi học cùng lúc hai chương trình, các học phần chung giữa hai CTĐT sẽ được xử lý như thế nào cho CTĐT thứ hai?",
+        "startIndex": 25,
+        "endIndex": 26,
+        "correctAnswer": "Được công nhận và tính điểm cho cả CTĐT thứ hai",
+        "answer": [
+            "Được công nhận và ghi điểm R (miễn học)",
+            "Phải học lại để tính điểm cho CTĐT thứ hai",
+            "Được công nhận và tính điểm cho cả CTĐT thứ hai",
+            "Chỉ được công nhận nếu điểm ở CTĐT thứ nhất đạt từ B trở lên"
+        ]
+    },
+    {
+        "question": "Một trong các tiêu chí quan trọng để đánh giá hoạt động CVHT và QLLSV của đơn vị quản ngành là gì?",
+        "startIndex": 31,
+        "endIndex": 32,
+        "correctAnswer": "Mức độ hài lòng của sinh viên đối với công tác này",
+        "answer": [
+            "Số lượng CVHT và cán bộ QLLSV của đơn vị",
+            "Mức độ hài lòng của sinh viên đối với công tác này",
+            "Số buổi họp lớp được tổ chức trong một năm học",
+            "Kinh phí đã chi cho các hoạt động tư vấn"
+        ]
+    },
+    {
+        "question": "Đơn vị nào chịu trách nhiệm chính trong việc giám sát chung và đánh giá hiệu quả thực hiện công tác CVHT và QLLSV của các đơn vị trong toàn Đại học?",
+        "startIndex": 37,
+        "endIndex": 38,
+        "correctAnswer": "Ban Công tác sinh viên",
+        "answer": [
+            "Ban Đào tạo",
+            "Văn phòng Đại học",
+            "Ban Quản lý chất lượng",
+            "Ban Công tác sinh viên"
+        ]
+    },
+    {
+        "question": "Quy chế 2025 quy định có bao nhiêu đợt xét tốt nghiệp đại học trong một năm?",
+        "startIndex": 44,
+        "endIndex": 45,
+        "correctAnswer": "3đ",
+        "answer": [
+            "2 đợt",
+            "3 đợt",
+            "4 đợt",
+            "Nhiều đợt, tùy theo số lượng sinh viên đăng ký"
+        ]
+    },
+    {
+        "question": "Theo quy trình, ai là người chấm điểm rèn luyện cho sinh viên dựa trên kết quả tự đánh giá và minh chứng?",
+        "startIndex": 50,
+        "endIndex": 51,
+        "correctAnswer": "Giảng viên quản lý lớp sinh viên",
+        "answer": [
+            "Sinh viên tự chấm và nộp kết quả cuối cùng",
+            "Cán bộ Ban Công tác Sinh viên",
+            "Giảng viên quản lý lớp sinh viên",
+            "Lớp trưởng và ban cán sự lớp"
+        ]
+    },
+    {
+        "question": "Triết lý cốt lõi mà mỗi người Bách khoa cân mang theo suốt đời là gì?",
+        "startIndex": 56,
+        "endIndex": 56,
+        "correctAnswer": "'Trách nhiệm với Đất nước — Cam kết với Cộng đồng'",
+        "answer": [
+            "Sáng tạo — Chính trực - Xuất sắc",
+            "'Trách nhiệm với Đất nước — Cam kết với Cộng đồng'",
+            "'Học với đam mê — Rèn luyện bản thân'",
+            "'Khám phá tri thức và không ngừng đổi mới'"
+        ]
+    },
+    {
+        "question": "Sinh viên đã nhận học bổng KKHT trong một học kỳ có được xét cấp học bổng Trân Đại Nghĩa trong cùng học kỳ đó không?",
+        "startIndex": 61,
+        "endIndex": 62,
+        "correctAnswer": "Không, sinh viên đã nhận học bổng KKHT sẽ không được xét cấp học bổng Trần Đại Nghĩa",
+        "answer": [
+            "Có, nếu đáp ứng đủ điều kiện về hoàn cảnh gia đình",
+            "Có, nhưng chỉ được nhận mức 50% của học bổng Trần Đại Nghĩa",
+            "Không, sinh viên đã nhận học bổng KKHT sẽ không được xét cấp học bổng Trần Đại Nghĩa",
+            "Tùy thuộc vào quyết định của Hội đồng xét cấp học bổng"
+        ]
+    },
+    {
+        "question": "Một sinh viên đang bị cảnh báo học tập mức 3 sẽ được hạ xuống mức 2 nếu đáp ứng điều kiện nào?",
+        "startIndex": 67,
+        "endIndex": 68,
+        "correctAnswer": "Có số TC nợ đọng từ đầu khóa nhỏ hơn hoặc bằng 24",
+        "answer": [
+            "Có số TC không đạt trong học kỳ nhỏ hơn hoặc bằng 4",
+            "Có điểm GPA trong học kỳ từ 2",
+            "Có số TC nợ đọng từ đầu khóa nhỏ hơn hoặc bằng 24",
+            "Hoàn thành tất cả các học phần đã đăng ký trong học kỳ"
+        ]
+    },
+    {
+        "question": "Theo Bộ Quy tắc ứng xử, sinh viên nên có thái độ như thế nào khi bạn bè có quan điểm hoặc lối sống khác biệt?",
+        "startIndex": 73,
+        "endIndex": 74,
+        "correctAnswer": "Biết lắng nghe và tôn trọng sự khác biệt của nhau",
+        "answer": [
+            "Chỉ kết bạn với những người có cùng quan điểm để tránh xung đột",
+            "Biết lắng nghe và tôn trọng sự khác biệt của nhau",
+            "Tranh luận để thuyết phục bạn bè thay đổi theo quan điểm của mình",
+            "Hạn chế tiếp xúc để không bị ảnh hưởng tiêu cực"
+        ]
+    },
+    {
+        "question": "Hành vi thi hộ sẽ bị trừ bao nhiêu điểm rèn luyện?",
+        "startIndex": 79,
+        "endIndex": 79,
+        "correctAnswer": "-20 điểm",
+        "answer": [
+            "-10 điểm",
+            "-20 điểm",
+            "-30 điểm",
+            "-50 điểm"
+        ]
+    },
+    {
+        "question": "Mức điểm tối đa cho tiêu chí 'Điểm học tập' (TC1) trong khung đánh giá là bao nhiêu?",
+        "startIndex": 84,
+        "endIndex": 85,
+        "correctAnswer": "30 điểm",
+        "answer": [
+            "25 điểm",
+            "30 điểm",
+            "20 điểm",
+            "35 điểm"
+        ]
+    },
+    {
+        "question": "Theo các nguồn tài liệu, ngoài việc tư vấn cho sinh viên, 'Điểm tựa yêu thương' còn hướng đến đối tượng nào sau đây?",
+        "startIndex": 90,
+        "endIndex": 91,
+        "correctAnswer": "Phụ huynh và những người có liên quan",
+        "answer": [
+            "Cựu sinh viên và doanh nghiệp đối tác",
+            "Giảng viên và cán bộ trong trường",
+            "Học sinh phổ thông và các trường THPT",
+            "Phụ huynh và những người có liên quan"
+        ]
+    },
+    {
+        "question": "Mục đích chính của Học bổng Trần Đại Nghĩa là gì?",
+        "startIndex": 96,
+        "endIndex": 96,
+        "correctAnswer": "Hỗ trợ sinh viên có hoàn cảnh kinh tế đặc biệt khó khăn và có kết quả học tập, rèn luyện tốt",
+        "answer": [
+            "Khen thưởng sinh viên có thành tích nghiên cứu khoa học xuất sắc",
+            "Hỗ trợ sinh viên có hoàn cảnh kinh tế đặc biệt khó khăn và có kết quả học tập, rèn luyện tốt",
+            "Khuyến khích sinh viên tham gia các chương trình trao đổi quốc tế",
+            "Thu hút học sinh giỏi từ các trường THPT chuyên trên cả nước"
+        ]
+    },
+    {
+        "question": "Hồ sơ quản lý quá trình học tập, rèn luyện của sinh viên KHÔNG bao gồm nội dung nào sau đây?",
+        "startIndex": 101,
+        "endIndex": 102,
+        "correctAnswer": "Thông tin tài chính cá nhân của gia đình sinh viên",
+        "answer": [
+            "Kết quả học tập và kết quả rèn luyện",
+            "Hình thức khen thưởng và kỷ luật (nếu có)",
+            "Tình trạng đóng học phí và thông tin bảo hiểm y tế",
+            "Thông tin tài chính cá nhân của gia đình sinh viên"
+        ]
+    },
+    {
+        "question": "Sinh viên học cùng lúc hai chương trình phải đăng ký tốt nghiệp như thế nào?",
+        "startIndex": 107,
+        "endIndex": 108,
+        "correctAnswer": "Phải đăng ký tốt nghiệp cùng đợt cho cả hai CTĐT",
+        "answer": [
+            "Đăng ký tốt nghiệp CTĐT thứ nhất trước, sau đó mới đến CTĐT thứ hai",
+            "Phải đăng ký tốt nghiệp cùng đợt cho cả hai CTĐT",
+            "Có thể đăng ký tốt nghiệp hai CTĐT ở hai đợt khác nhau",
+            "Tùy chọn đăng ký tốt nghiệp theo nguyện vọng cá nhân"
+        ]
+    },
+    {
+        "question": "Thay đổi quan trọng nhất tại Điều 17 về 'Chuyển chương trình đào tạo' là gì?",
+        "startIndex": 113,
+        "endIndex": 114,
+        "correctAnswer": "Bỏ quy định 'Không cho phép chuyển CTĐT đối với sinh viên đã học từ năm thứ hai trở đi'",
+        "answer": [
+            "Cho phép sinh viên năm cuối chuyển chương trình",
+            "Bỏ quy định 'Không cho phép chuyển CTĐT đối với sinh viên đã học từ năm thứ hai trở đi'",
+            "Yêu cầu CPA phải đạt 3.5 để được chuyển chương trình",
+            "Chỉ cho phép chuyển giữa các chương trình trong cùng một Trường/Khoa/Viện"
+        ]
+    },
+    {
+        "question": "Quy định đánh giá kết quả rèn luyện của sinh viên Đại học Bách khoa Hà Nội áp dụng cho đối tượng nào?",
+        "startIndex": 119,
+        "endIndex": 120,
+        "correctAnswer": "Sinh viên đại học hình thức đào tạo chính quy, không bao gồm lưu học sinh nước ngoài",
+        "answer": [
+            "Tất cả sinh viên, bao gồm cả lưu học sinh nước ngoài",
+            "Chỉ sinh viên hệ đại học hình thức đào tạo vừa học vừa làm",
+            "Sinh viên đại học hình thức đào tạo chính quy, không bao gồm lưu học sinh nước ngoài",
+            "Sinh viên sau đại học và nghiên cứu sinh"
+        ]
+    },
+    {
+        "question": "Sinh viên có quyên khiếu nại về kết quả đánh giá rèn luyện hoặc các hình thức khen thưởng, kỷ luật lên đâu?",
+        "startIndex": 125,
+        "endIndex": 126,
+        "correctAnswer": "Giám đốc Đại học (qua Ban Công tác sinh viên)",
+        "answer": [
+            "Trưởng đơn vị quản ngành",
+            "Hội đồng kỷ luật sinh viên",
+            "Giám đốc Đại học (qua Ban Công tác sinh viên)",
+            "Đoàn Thanh niên - Hội Sinh viên Đại học"
+        ]
+    },
+    {
+        "question": "Tổng điểm tối đa cho tiêu chí 'Điểm tham gia hoạt động chính trị, xã hội, văn hoá, thể thao' (TC3) là bao nhiêu?",
+        "startIndex": 131,
+        "endIndex": 132,
+        "correctAnswer": "25 điểm",
+        "answer": [
+            "20 điểm",
+            "25 điểm",
+            "30 điểm",
+            "35 điểm"
+        ]
+    },
+    {
+        "question": "Bác Hồ đã vê thăm Trường Đại học Bách khoa Hà Nội bao nhiêu lần?",
+        "startIndex": 137,
+        "endIndex": 137,
+        "correctAnswer": "3 lần",
+        "answer": [
+            "1 lần",
+            "2 lần",
+            "3 lần",
+            "4 lần"
+        ]
+    },
+    {
+        "question": "Theo Thông tư 10/2016/TT-BGDĐT, vai trò của CVHT và QLLSV là gì?",
+        "startIndex": 142,
+        "endIndex": 142,
+        "correctAnswer": "Là cầu nối giữa Sinh viên với Nhà trường và gia đình",
+        "answer": [
+            "Là người chịu trách nhiệm toàn bộ về kết quả học tập của sinh viên",
+            "Là người giám sát các hoạt động ngoại khóa của sinh viên",
+            "Là cầu nối giữa Sinh viên với Nhà trường và gia đình",
+            "Là người cung cấp hỗ trợ tài chính cho sinh viên khó khăn"
+        ]
+    },
+    {
+        "question": "Đâu là một trong những khó khăn mà cán bộ làm công tác CVHT và QLLSV thường gặp phải?",
+        "startIndex": 147,
+        "endIndex": 148,
+        "correctAnswer": "Không được cung cấp thông tin về kết quả học tập của sinh viên",
+        "answer": [
+            "Không được cung cấp thông tin về kết quả học tập của sinh viên",
+            "Hạn chế về mặt thời gian do đây là công tác kiêm nhiệm",
+            "Sinh viên không hợp tác trong mọi hoạt động",
+            "Thiếu các quy định, văn bản hướng dẫn từ nhà trường"
+        ]
+    },
+    {
+        "question": "Đơn vị nào chịu trách nhiệm cung cấp kết quả điểm học tập và danh sách cảnh báo học tập cho Ban Công tác Sinh viên?",
+        "startIndex": 153,
+        "endIndex": 154,
+        "correctAnswer": "Ban Đào tạo",
+        "answer": [
+            "Đoàn Thanh niên, Hội Sinh viên",
+            "Các Trường/Viện/Khoa đào tạo",
+            "Ban Đào tạo",
+            "Ban Giám đốc Đại học"
+        ]
+    },
+    {
+        "question": "Hình thức kỷ luật 'Khiển trách' áp dụng đối với trường hợp nào?",
+        "startIndex": 159,
+        "endIndex": 159,
+        "correctAnswer": "Sinh viên có hành vi vi phạm lần đầu nhưng ở mức độ nhẹ",
+        "answer": [
+            "Sinh viên vi phạm lần đầu ở mức độ nghiêm trọng",
+            "Sinh viên đã bị cảnh cáo nhưng tái phạm",
+            "Sinh viên có hành vi vi phạm lần đầu nhưng ở mức độ nhẹ",
+            "Sinh viên vi phạm pháp luật bị xử phạt tù giam"
+        ]
+    },
+    {
+        "question": "Theo Quy chế đào tạo 2025, đối tượng áp dụng nào được bổ sung rõ ràng vào định nghĩa 'người học'?",
+        "startIndex": 164,
+        "endIndex": 165,
+        "correctAnswer": "Kỹ sư (kỹ sư chuyên sâu)",
+        "answer": [
+            "Sinh viên chương trình Tài năng",
+            "Nghiên cứu sinh (NCS)",
+            "Kỹ sư (kỹ sư chuyên sâu)",
+            "Học viên cao học"
+        ]
+    },
+    {
+        "question": "Học phí của lớp học phần rút gọn được tính như thế nào?",
+        "startIndex": 170,
+        "endIndex": 170,
+        "correctAnswer": "Bằng 50% so với lớp học phần bình thường",
+        "answer": [
+            "Bằng 50% so với lớp học phần bình thường",
+            "Bằng 75% so với lớp học phần bình thường",
+            "Bằng 100% so với lớp học phần bình thường",
+            "Bằng 150% so với lớp học phần bình thường"
+        ]
+    },
+    {
+        "question": "Nếu GPA kỳ đánh giá cao hơn kỳ trước, sinh viên sẽ được cộng thêm bao nhiêu điểm cho sự nỗ lực trong học tập?",
+        "startIndex": 175,
+        "endIndex": 176,
+        "correctAnswer": "8 điểm",
+        "answer": [
+            "4 điểm",
+            "6 điểm",
+            "8 điểm",
+            "10 điểm"
+        ]
+    },
+    {
+        "question": "Chức năng chính của Ban Công tác sinh viên là gì?",
+        "startIndex": 181,
+        "endIndex": 181,
+        "correctAnswer": "Quản lý, tư vấn và hỗ trợ người học, tổ chức các hoạt động xã hội",
+        "answer": [
+            "Quản lý hệ thống đào tạo và chất lượng giảng dạy",
+            "Hỗ trợ hoạt động nghiên cứu và đổi mới sáng tạo",
+            "Tổ chức công tác tuyển sinh và tư vấn hướng nghiệp",
+            "Quản lý, tư vấn và hỗ trợ người học, tổ chức các hoạt động xã hội"
+        ]
+    },
+    {
+        "question": "Đại học Bách khoa Hà Nội đã vinh dự được Nhà nước trao tặng danh hiệu Anh hùng lao động trong thời kỳ đổi mới vào thời gian nào?",
+        "startIndex": 186,
+        "endIndex": 187,
+        "correctAnswer": "Tháng 8/2000",
+        "answer": [
+            "Tháng 8/2000",
+            "Tháng 4/2006",
+            "Tháng 10/2001",
+            "Tháng 10/2016"
+        ]
+    },
+    {
+        "question": "Học bổng Gắn kết quê hương có giá trị là bao nhiêu cho mỗi Đồ án tốt nghiệp được xét cấp?",
+        "startIndex": 192,
+        "endIndex": 193,
+        "correctAnswer": "5 triệu đồng",
+        "answer": [
+            "3 triệu đồng",
+            "5 triệu đồng",
+            "10 triệu đồng",
+            "Tùy thuộc vào tính ứng dụng của đề tài"
+        ]
+    },
+    {
+        "question": "Tham gia 'Sinh hoạt công dân' do nhà trường tổ chức sẽ được ghi nhận bao nhiêu điểm rèn luyện?",
+        "startIndex": 198,
+        "endIndex": 199,
+        "correctAnswer": "7 điểm",
+        "answer": [
+            "6 điểm",
+            "7 điểm",
+            "10 điểm",
+            "20 điểm"
+        ]
+    },
+    {
+        "question": "Một cán bộ lớp hoàn thành xuất sắc nhiệm vụ được tập thể công nhận sẽ được cộng bao nhiêu điểm?",
+        "startIndex": 204,
+        "endIndex": 205,
+        "correctAnswer": "6 điểm",
+        "answer": [
+            "6 điểm",
+            "4 điểm",
+            "2 điểm",
+            "8 điểm"
+        ]
+    },
+    {
+        "question": "Hành vi nào sau đây bị nghiêm cấm nhằm bảo vệ cơ sở vật chất và môi trường của Nhà trường?",
+        "startIndex": 210,
+        "endIndex": 211,
+        "correctAnswer": "Tự ý viết vẽ, dán lên tường, bàn ghế trong phòng học, phòng ở ký túc xá và các khu vực khác",
+        "answer": [
+            "Tham gia các hoạt động bảo vệ môi trường",
+            "Bỏ rác vào đúng nơi quy định",
+            "Tự ý viết vẽ, dán lên tường, bàn ghế trong phòng học, phòng ở ký túc xá và các khu vực khác",
+            "Sử dụng an toàn và tiết kiệm điện, nước, trang thiết bị của Nhà trường"
+        ]
+    },
+    {
+        "question": "Theo Quy chế 2025, định nghĩa 'Nghỉ học tạm thời' là việc nghỉ học có hiệu lực từ bao lâu?",
+        "startIndex": 216,
+        "endIndex": 217,
+        "correctAnswer": "Từ 01 học kỳ trở lên",
+        "answer": [
+            "Từ 01 học kỳ trở lên",
+            "Từ 02 học kỳ chính trở lên",
+            "Tối thiểu 2 tuần",
+            "Dưới 01 học kỳ"
+        ]
+    },
+    {
+        "question": "Tổng điểm tối đa cho tiêu chí 'Điểm ý thức công dân trong quan hệ cộng đông' (TC4) là bao nhiêu?)",
+        "startIndex": 222,
+        "endIndex": 223,
+        "correctAnswer": "20 điểm",
+        "answer": [
+            "15 điểm",
+            "25 điểm",
+            "20 điểm",
+            "10 điểm"
+        ]
+    },
+    {
+        "question": "Nội dung xử lý vi phạm đối với sinh viên trong Quy chế 2025 (Điều 20) có thay đổi lớn nào so với phiên bản 2023?",
+        "startIndex": 228,
+        "endIndex": 229,
+        "correctAnswer": "Chuyển các quy định chỉ tiết sang một văn bản riêng (Quy chế công tác sinh viên)",
+        "answer": [
+            "Tăng mức kỷ luật đối với hành vi gian lận thi cử",
+            "Giảm nhẹ các hình thức kỷ luật",
+            "Chuyển các quy định chỉ tiết sang một văn bản riêng (Quy chế công tác sinh viên)",
+            "Bổ sung thêm các hành vi vi phạm về đạo văn"
+        ]
+    },
+    {
+        "question": "Đạt danh hiệu 'Sinh viên 5 tốt' từ cấp Đại học trở lên sẽ được ghi nhận bao nhiêu điểm?",
+        "startIndex": 234,
+        "endIndex": 235,
+        "correctAnswer": "4 điểm",
+        "answer": [
+            "2 điểm",
+            "4 điểm",
+            "6 điểm",
+            "8 điểm"
+        ]
+    },
+    {
+        "question": "Sinh viên có ý tưởng về khởi nghiệp và đổi mới sáng tạo có thể tìm kiếm sự hỗ trợ từ đơn vị nào?",
+        "startIndex": 240,
+        "endIndex": 241,
+        "correctAnswer": "Trung tâm Sáng tạo & Khởi nghiệp sinh viên",
+        "answer": [
+            "Ban Khoa học & Công nghệ",
+            "Quỹ đầu tư mạo hiểm BKFund",
+            "Trung tâm Sáng tạo & Khởi nghiệp sinh viên",
+            "Ban Công tác sinh viên"
+        ]
+    },
+    {
+        "question": "Quy định nào về việc buộc thôi học do không nộp học phí đã bị loại bỏ trong Quy chế 2025?",
+        "startIndex": 246,
+        "endIndex": 247,
+        "correctAnswer": "Không được dự thi cuối kỳ nếu chưa hoàn thành học phí",
+        "answer": [
+            "Đình chỉ đăng ký học tập một học kỳ kế tiếp nếu không nộp đủ học phí",
+            "Buộc thôi học nếu bị đình chỉ lần thứ 2 liên tiếp do không nộp học phí",
+            "Phải nộp học phí đầy đủ và đúng hạn",
+            "Không được dự thi cuối kỳ nếu chưa hoàn thành học phí"
+        ]
+    },
+    {
+        "question": "Sinh viên có điểm CPA từ bao nhiêu trở lên có thể đề nghị xét chuyển vào CTĐT Tài năng sau khi kết thúc năm thứ hai?)",
+        "startIndex": 252,
+        "endIndex": 253,
+        "correctAnswer": "3.2",
+        "answer": [
+            "2.5",
+            "3.0",
+            "3.2",
+            "3.6"
+        ]
+    },
+    {
+        "question": "Hành vi nào sau đây bị nghiêm cấm trong ứng xử với bạn bè, đặc biệt trên không gian mạng?",
+        "startIndex": 258,
+        "endIndex": 260,
+        "correctAnswer": "Sử dụng mạng xã hội để nói xấu, bôi nhọ hoặc kích động hận thù",
+        "answer": [
+            "Cùng nhau tham gia các hoạt động bảo vệ môi trường, tiết kiệm điện nước",
+            "Giữ gìn mối quan hệ bình đẳng và trong sáng với bạn bè khác giới",
+            "Đoàn kết, giúp đỡ nhau cùng tiến bộ trong học tập và rèn luyện",
+            "Sử dụng mạng xã hội để nói xấu, bôi nhọ hoặc kích động hận thù"
+        ]
+    },
+    {
+        "question": "Quỹ đầu tư mạo hiểm BKFund được xây dựng từ nguồn lực nào và có sứ mệnh chính là gì lạ",
+        "startIndex": 265,
+        "endIndex": 266,
+        "correctAnswer": "Từ mạng lưới Cựu sinh viên, nhằm đầu tư, ươm tạo các startup của cán bộ, sinh viên, cựu sinh viên",
+        "answer": [
+            "Từ ngân sách Nhà nước, nhằm hỗ trợ sinh viên có hoàn cảnh khó khăn",
+            "Từ mạng lưới Cựu sinh viên, nhằm đầu tư, ươm tạo các startup của cán bộ, sinh viên, cựu sinh viên",
+            "Từ các doanh nghiệp đối tác, nhằm tài trợ cho các cuộc thi sáng tạo và nghiên cứu khoa học",
+            "Từ các tổ chức quốc tế, nhằm cấp học bổng trao đổi sinh viên"
+        ]
+    },
+    {
+        "question": "Chương trình đào tạo (CTĐT) mới nào được giới thiệu trong Quy chế 2025, thuộc nhóm chương trình ELTTECH?",
+        "startIndex": 272,
+        "endIndex": 273,
+        "correctAnswer": "Chương trình đào tạo Tài năng",
+        "answer": [
+            "Chương trình đào tạo Tài năng",
+            "Chương trình đào tạo Kỹ sư chuyên sâu đặc biệt",
+            "Chương trình tích hợp Cử nhân - Tiến sĩ",
+            "Chương trình liên kết quốc tế chất lượng cao"
+        ]
+    },
+    {
+        "question": "Sinh viên vi phạm quy chế thi từ mức cảnh cáo trở lên sẽ bị trừ bao nhiêu điểm?",
+        "startIndex": 278,
+        "endIndex": 279,
+        "correctAnswer": "-10 điểm",
+        "answer": [
+            "-5 điểm",
+            "-10 điểm",
+            "-15 điểm",
+            "-20 điểm"
+        ]
+    },
+    {
+        "question": "Theo Khung đánh giá năm học 2024-2025, sinh viên có điểm GPA 3.5 sẽ được bao nhiêu điểm rèn luyện ở mục kết quả học tập?",
+        "startIndex": 284,
+        "endIndex": 285,
+        "correctAnswer": "18 điểm",
+        "answer": [
+            "20 điểm",
+            "18 điểm",
+            "16 điểm",
+            "14 điểm"
+        ]
+    },
+    {
+        "question": "Cán bộ Quản lý lớp sinh viên (QLLSV) có thể là những ai?",
+        "startIndex": 290,
+        "endIndex": 290,
+        "correctAnswer": "Cán bộ giảng dạy, cán bộ hành chính hoặc cán bộ kỹ thuật đang công tác tại đơn vị quản ngành",
+        "answer": [
+            "Chỉ có thể là giảng viên đang trực tiếp giảng dạy lớp đó",
+            "Cán bộ giảng dạy, cán bộ hành chính hoặc cán bộ kỹ thuật đang công tác tại đơn vị quản ngành",
+            "Chỉ có thể là cán bộ thuộc Ban Công tác sinh viên",
+            "Chỉ có thể là giảng viên có trình độ từ Thạc sĩ trở lên"
+        ]
+    },
+    {
+        "question": "Đối với sinh viên bị kỷ luật cảnh cáo, quyết định kỷ luật sẽ chấm dứt hiệu lực sau bao lâu nếu không tái phạm?",
+        "startIndex": 295,
+        "endIndex": 296,
+        "correctAnswer": "6 tháng",
+        "answer": [
+            "3 tháng",
+            "6 tháng",
+            "9 tháng",
+            "12 tháng"
+        ]
+    },
+    {
+        "question": "Sinh viên bị buộc thôi học trong trường hợp nào sau đây?",
+        "startIndex": 301,
+        "endIndex": 301,
+        "correctAnswer": "Bị cảnh báo học tập mức 3 lần thứ hai liên tiếp",
+        "answer": [
+            "Bị cảnh báo học tập mức 3 lần đầu tiên",
+            "Bị cảnh báo học tập mức 3 lần thứ hai liên tiếp",
+            "Có số tín chỉ nợ đọng lớn hơn 24",
+            "Có điểm CPA dưới 1.5 trong hai kỳ học liên tiếp"
+        ]
+    },
+    {
+        "question": "Sinh viên nào được tặng danh hiệu 'Sinh viên tốt nghiệp thủ khoa”?",
+        "startIndex": 306,
+        "endIndex": 306,
+        "correctAnswer": "Sinh viên đạt danh hiệu `Sinh viên tốt nghiệp xuất sắc” có kết quả học tập toàn khóa cao nhất của đơn vị quản ngành và không có học phần không đạt",
+        "answer": [
+            "Sinh viên tốt nghiệp xuất sắc có điểm trung bình cao nhất toàn Đại học",
+            "Sinh viên đạt danh hiệu `Sinh viên tốt nghiệp xuất sắc” có kết quả học tập toàn khóa cao nhất của đơn vị quản ngành và không có học phần không đạt",
+            "Bất kỳ sinh viên nào có kết quả học tập toàn khóa cao nhất của đơn vị quản ngành",
+            "Sinh viên tốt nghiệp xuất sắc có thành tích nghiên cứu khoa học nổi bật nhất"
+        ]
+    },
+    {
+        "question": "Việc tham gia khóa đào tạo kỹ năng nghề nghiệp, kỹ năng bổ trợ chuyên môn được cộng tối đa bao nhiêu điểm?",
+        "startIndex": 312,
+        "endIndex": 313,
+        "correctAnswer": "6 điểm",
+        "answer": [
+            "3 điểm",
+            "6 điểm",
+            "9 điểm",
+            "4 điểm"
+        ]
+    },
+    {
+        "question": "Theo khảo sát, nhóm học phần nào được nhiều sinh viên đánh giá là 'trở ngại' trong năm học đầu tiên?",
+        "startIndex": 318,
+        "endIndex": 319,
+        "correctAnswer": "Giải tích 1, Đại số, Triết học",
+        "answer": [
+            "Giáo dục thể chất và An ninh quốc phòng",
+            "Các môn lý luận chính trị",
+            "Giải tích 1, Đại số, Triết học",
+            "Các môn thí nghiệm và thực hành"
+        ]
+    },
+    {
+        "question": "Kết quả đánh giá rèn luyện của sinh viên được sử dụng vào mục đích nào sau đây?",
+        "startIndex": 324,
+        "endIndex": 325,
+        "correctAnswer": "Xét duyệt học bổng, xét khen thưởng, xét tham gia các hoạt động giao lưu, trao đổi sinh viên",
+        "answer": [
+            "Chỉ để lưu trong hồ sơ quản lý sinh viên",
+            "Xét duyệt học bổng, xét khen thưởng, xét tham gia các hoạt động giao lưu, trao đổi sinh viên quốc tế",
+            "Quyết định việc sinh viên có được đăng ký học phần hay không",
+            "Chỉ để cấp trong hồ sơ tốt nghiệp của sinh viên"
+        ]
+    },
+    {
+        "question": "Tổ tư vấn và hỗ trợ sinh viên, nơi giúp sinh viên giải quyết các khó khăn về học tập và tâm lý, là một bộ phận trực thuộc đơn vị nào?",
+        "startIndex": 331,
+        "endIndex": 332,
+        "correctAnswer": "Ban Công tác sinh viên",
+        "answer": [
+            "Ban Đào tạo",
+            "Hội Sinh viên",
+            "Trung tâm Y tế Bách khoa",
+            "Ban Công tác sinh viên"
+        ]
+    },
+    {
+        "question": "Sinh viên hỗ trợ công tác CVHT được hưởng quyền lợi nào sau đây?",
+        "startIndex": 337,
+        "endIndex": 337,
+        "correctAnswer": "Được cộng điểm rèn luyện vào cuối học kỳ nếu hoàn thành nhiệm vụ",
+        "answer": [
+            "Được miễn toàn bộ học phí trong kỳ tham gia",
+            "Được cộng điểm rèn luyện vào cuối học kỳ nếu hoàn thành nhiệm vụ",
+            "Được ưu tiên trong việc xét tốt nghiệp sớm",
+            "Được cấp một suất học bổng khuyến khích học tập riêng"
+        ]
+    },
+    {
+        "question": "Kết quả đánh giá rèn luyện của sinh viên được công bố công khai bao lâu trước khi ban hành quyết định chính thức?",
+        "startIndex": 342,
+        "endIndex": 343,
+        "correctAnswer": "14 ngày",
+        "answer": [
+            "7 ngày",
+            "10 ngày",
+            "14 ngày",
+            "15 ngày"
+        ]
+    },
+    {
+        "question": "Hình thức kỷ luật 'Buộc thôi học' được áp dụng trong trường hợp nào?",
+        "startIndex": 348,
+        "endIndex": 348,
+        "correctAnswer": "Sinh viên đang trong thời gian bị đình chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật hoặc vi phạm",
+        "answer": [
+            "Sinh viên bị kỷ luật cảnh cáo và tái phạm",
+            "Sinh viên có hành vi vi phạm lần đầu ở mức độ nhẹ",
+            "Sinh viên đang trong thời gian bị đình chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật hoặc vi phạm lần đầu nhưng có tính chất và mức độ đặc biệt nghiêm trọng",
+            "Sinh viên vi phạm lần đầu nhưng ở mức độ tương đối nghiêm trọng"
+        ]
+    },
+    {
+        "question": "Một trong những điều kiện để được xem xét mở 'lớp học phần rút gọn' là gì?",
+        "startIndex": 354,
+        "endIndex": 355,
+        "correctAnswer": "Sinh viên đã học học phần đó ít nhất 02 lần nhưng chưa đạt",
+        "answer": [
+            "Sinh viên đã học học phần đó 1 lần nhưng chưa đạt",
+            "Điểm quá trình lần học gần nhất phải từ 5 điểm trở lên",
+            "Sinh viên đã học học phần đó ít nhất 02 lần nhưng chưa đạt",
+            "Sinh viên đang ở trình độ năm thứ hai trở lên"
+        ]
+    },
+    {
+        "question": "Nếu người hướng dẫn hoặc người phản biện cho điểm ĐATN dưới 5, sinh viên sẽ bị xử lý như thế nào?",
+        "startIndex": 360,
+        "endIndex": 361,
+        "correctAnswer": "Không được phép tham gia bảo vệ và điểm bảo vệ tại hội đồng là 0 điểm",
+        "answer": [
+            "Điểm học phần ĐATN là điểm F",
+            "Vẫn được bảo vệ nhưng điểm bảo vệ bị trừ 1 điểm",
+            "Vẫn được bảo vệ nhưng điểm bảo vệ tối đa là 4,9",
+            "Không được phép tham gia bảo vệ và điểm bảo vệ tại hội đồng là 0 điểm"
+        ]
+    },
+    {
+        "question": "Sinh viên không bị cấm thi của tất cả các học phần trong kỳ học sẽ được cộng bao nhiêu điểm?",
+        "startIndex": 366,
+        "endIndex": 367,
+        "correctAnswer": "6 điểm",
+        "answer": [
+            "6 điểm",
+            "3 điểm",
+            "9 điểm",
+            "5 điểm"
+        ]
+    },
+    {
+        "question": "Thời gian trả lời khiếu nại của sinh viên về kết quả đánh giá rèn luyện không được quá bao nhiêu ngày kể từ ngày nhận đơn?",
+        "startIndex": 372,
+        "endIndex": 373,
+        "correctAnswer": "7 ngày",
+        "answer": [
+            "3 ngày",
+            "5 ngày",
+            "7 ngày",
+            "15 ngày"
+        ]
+    },
+    {
+        "question": "Đơn vị nào chịu trách nhiệm quản lý, vận hành và khai thác cơ sở vật chất, hạ tầng công nghệ thông tin và cảnh quan của Đại học?",
+        "startIndex": 378,
+        "endIndex": 379,
+        "correctAnswer": "Ban Cơ sở vật chất",
+        "answer": [
+            "Ban Hợp tác đối ngoại",
+            "Ban Cơ sở vật chất",
+            "Trung tâm Dịch vụ & Hỗ trợ Bách khoa",
+            "Ban Khoa học & Công nghệ"
+        ]
+    },
+    {
+        "question": "Đại học Bách khoa Hà Nội đã được Nhà nước trao tặng Huân chương Hồ Chí Minh tổng cộng bao nhiêu lần?",
+        "startIndex": 384,
+        "endIndex": 386,
+        "correctAnswer": "3 lần",
+        "answer": [
+            "1 lần",
+            "2 lần",
+            "3 lần",
+            "4 lần"
+        ]
+    },
+    {
+        "question": "Theo nguyên tắc quản lý chỉ tiêu hiệu quả được đề cập trong tài liệu, sinh viên nên phân bổ thu nhập của mình theo tỷ lệ nào?",
+        "startIndex": 391,
+        "endIndex": 392,
+        "correctAnswer": "50% cho chỉ tiêu thiết yếu, 30% cho hưởng thụ, 20% cho tiết kiệm",
+        "answer": [
+            "40% cho chỉ tiêu thiết yếu, 40% cho hưởng thụ, 20% cho tiết kiệm",
+            "50% cho chỉ tiêu thiết yếu, 30% cho hưởng thụ, 20% cho tiết kiệm",
+            "60% cho chỉ tiêu thiết yếu, 20% cho hưởng thụ, 20% cho tiết kiệm",
+            "70% cho chỉ tiêu thiết yếu, 10% cho hưởng thụ, 20% cho tiết kiệm"
+        ]
+    },
+    {
+        "question": "CVHT có quyền nào sau đây để hỗ trợ sinh viên?",
+        "startIndex": 397,
+        "endIndex": 397,
+        "correctAnswer": "Đề nghị các đơn vị chức năng hỗ trợ giải quyết kịp thời các khó khăn của người học",
+        "answer": [
+            "Thay đổi điểm số học phần của sinh viên khi cần thiết",
+            "Quyết định hình thức kỷ luật đối với sinh viên vi phạm",
+            "Đề nghị các đơn vị chức năng hỗ trợ giải quyết kịp thời các khó khăn của người học",
+            "Cho phép sinh viên đăng ký nhiều hơn số tín chỉ quy định"
+        ]
+    },
+    {
+        "question": "Theo Bộ Quy tắc ứng xử, hành vi nào sau đây sinh viên không được phép thực hiện trong giờ học khi chưa có sự đồng ý của giáo viên?",
+        "startIndex": 402,
+        "endIndex": 403,
+        "correctAnswer": "Ghi âm, ghi hình, chụp ảnh",
+        "answer": [
+            "Tích cực hợp tác với giảng viên trong mọi hoạt động giáo dục",
+            "Đặt câu hỏi và trao đổi về bài học",
+            "Ghi âm, ghi hình, chụp ảnh",
+            "Lên án những hành vi làm xấu đi mối quan hệ thầy - trò"
+        ]
+    },
+    {
+        "question": "Sinh viên đạt chứng chỉ ngoại ngữ tương đương TOEIC 600 điểm trở lên sẽ được cộng bao nhiêu điểm rèn luyện?",
+        "startIndex": 408,
+        "endIndex": 409,
+        "correctAnswer": "2 điểm",
+        "answer": [
+            "2 điểm",
+            "4 điểm",
+            "6 điểm",
+            "8 điểm"
+        ]
+    },
+    {
+        "question": "Số tín chỉ tối đa mà sinh viên không thuộc diện cảnh báo học tập được đăng ký trong một học kỳ chính là bao nhiêu?",
+        "startIndex": 414,
+        "endIndex": 415,
+        "correctAnswer": "24TC",
+        "answer": [
+            "18TC",
+            "20TC",
+            "24TC",
+            "30TC"
+        ]
+    },
+    {
+        "question": "Theo Quy chế, vị trí của sinh viên trong Đại học Bách khoa Hà Nội là gì?",
+        "startIndex": 420,
+        "endIndex": 420,
+        "correctAnswer": "Là trung tâm các hoạt động giáo dục, đào tạo, nghiên cứu khoa học, đổi mới sáng tạo và khởi",
+        "answer": [
+            "Là khách hàng sử dụng dịch vụ giáo dục của nhà trường",
+            "Là trung tâm các hoạt động giáo dục, đào tạo, nghiên cứu khoa học, đổi mới sáng tạo và khởi",
+            "nghiệp",
+            "Là đối tượng thụ hưởng các chính sách phúc lợi xã hội",
+            "Là lực lượng lao động hỗ trợ các hoạt động của Đại học"
+        ]
+    },
+    {
+        "question": "Một trong những giải pháp được đề xuất đối với sinh viên thuộc diện cảnh báo học tập là gì?",
+        "startIndex": 426,
+        "endIndex": 427,
+        "correctAnswer": "Việc đăng ký học tập cần có sự phối hợp với cố vấn học tập",
+        "answer": [
+            "Buộc sinh viên học lại tất cả các môn đã trượt trong kỳ tiếp theo",
+            "Việc đăng ký học tập cần có sự phối hợp với cố vấn học tập",
+            "Giảm 50% số tín chỉ được đăng ký so với quy định chung",
+            "Tự động xếp thời khóa biểu cho sinh viên mà không cần đăng ký"
+        ]
+    },
+    {
+        "question": "Mức trừ điểm nặng nhất (-50 điểm) áp dụng cho hành vi vi phạm nào?",
+        "startIndex": 432,
+        "endIndex": 432,
+        "correctAnswer": "Vi phạm pháp luật thuộc nhóm tội danh hình sự",
+        "answer": [
+            "Vi phạm quy tắc ứng xử văn hóa",
+            "Bị kỷ luật khi thi hộ",
+            "Vi phạm pháp luật thuộc nhóm tội danh hình sự",
+            "Vi phạm các quy định của nhà trường"
+        ]
+    },
+    {
+        "question": "Sinh viên được hưởng quyên lợi nào sau đây theo Quy chế?",
+        "startIndex": 437,
+        "endIndex": 437,
+        "correctAnswer": "Được sử dụng học liệu, thiết bị và phương tiện phục vụ học tập, nghiên cứu khoa học theo quy định",
+        "answer": [
+            "Được miễn toàn bộ học phí và các khoản phí khác",
+            "Được tự do lựa chọn môn học không theo chương trình đào tạo",
+            "Được sử dụng học liệu, thiết bị và phương tiện phục vụ học tập, nghiên cứu khoa học theo quy định",
+            "Được yêu cầu thay đổi kết quả học tập mà không cần lý do"
+        ]
+    },
+    {
+        "question": "'BKHUP Coworking Space' được thành lập với mục đích chính là gì?",
+        "startIndex": 443,
+        "endIndex": 444,
+        "correctAnswer": "Là nơi làm việc, gặp gỡ, kết nối cho các nhóm nghiên cứu trẻ, nhà sáng chế, nhà đầu tư và doanh nghiệp",
+        "answer": [
+            "Cung cấp không gian tự học và thảo luận nhóm cho sinh viên",
+            "Tổ chức các khóa học kỹ năng mềm và kỹ năng ứng tuyển công việc",
+            "Là nơi làm việc, gặp gỡ, kết nối cho các nhóm nghiên cứu trẻ, nhà sáng chế, nhà đầu tư và doanh nghiệp",
+            "Là địa điểm tổ chức Ngày hội việc làm và các hội thảo tuyển dụng thường niên"
+        ]
+    },
+    {
+        "question": "Điều kiện để sinh viên được giao đề tài Đồ án/ Khóa luận tốt nghiệp (ĐATN) theo Quy chế 2025 là gì?",
+        "startIndex": 450,
+        "endIndex": 451,
+        "correctAnswer": "Đảm bảo các điều kiện về học phần học trước, tiên quyết, song hành",
+        "answer": [
+            "Tổng số tín chỉ chưa đạt dưới 8 và đạt chuẩn ngoại ngữ",
+            "Đảm bảo các điều kiện về học phần học trước, tiên quyết, song hành",
+            "Có điểm CPA từ 2.5 trở lên",
+            "Không bị cảnh báo học tập ở bất kỳ mức nào"
+        ]
+    },
+    {
+        "question": "Quyền lợi nào sau đây KHÔNG phải của Cố vấn học tập?",
+        "startIndex": 456,
+        "endIndex": 456,
+        "correctAnswer": "Được quyết định miễn giảm các khoản phí cho sinh viên có hoàn cảnh khó khăn",
+        "answer": [
+            "Được bồi dưỡng nghiệp vụ tư vấn theo kế hoạch của Đại học",
+            "Được lựa chọn và đề xuất sinh viên tham gia hỗ trợ công tác CVHT",
+            "Được cung cấp tài khoản truy cập vào hệ thống quản lý thông tin của sinh viên",
+            "Được quyết định miễn giảm các khoản phí cho sinh viên có hoàn cảnh khó khăn"
+        ]
+    },
+    {
+        "question": "Điều kiện tối thiểu để sinh viên được xét cấp Học bổng Trao đổi sinh viên là gì?",
+        "startIndex": 461,
+        "endIndex": 462,
+        "correctAnswer": "Từ năm thứ 3, CPA > 3",
+        "answer": [
+            "Từ năm thứ 2, CPA > 3",
+            "Từ năm thứ 3, CPA > 3",
+            "Từ năm thứ 3, CPA > 3",
+            "Từ năm thứ 2, CPA > 3"
+        ]
+    },
+    {
+        "question": "Theo Giám đốc, đâu KHÔNG phải là một trong bốn giá trị cốt lõi của người Bách khoa?)",
+        "startIndex": 467,
+        "endIndex": 468,
+        "correctAnswer": "Kỷ luật",
+        "answer": [
+            "Trách nhiệm",
+            "Sáng tạo",
+            "Kỷ luật",
+            "Xuất sắc"
+        ]
+    },
+    {
+        "question": "Sinh viên thuộc diện được vay vốn tại Ngân hàng chính sách có thể nhận được định mức vay tối đa là bao nhiêu?",
+        "startIndex": 473,
+        "endIndex": 474,
+        "correctAnswer": "4.000.000đ/sinh viên/tháng",
+        "answer": [
+            "2.000.000đ/sinh viên/tháng",
+            "3.000.000đ/sinh viên/tháng",
+            "4.000.000đ/sinh viên/tháng",
+            "5.000.000đ/sinh viên/tháng"
+        ]
+    },
+    {
+        "question": "Yêu cầu trọng tâm đối với công tác CVHT và QLLSV là gì?",
+        "startIndex": 479,
+        "endIndex": 479,
+        "correctAnswer": "Tạo động lực học tập tích cực cho sinh viên",
+        "answer": [
+            "Đảm bảo 100% sinh viên của lớp qua tất cả các môn học",
+            "Liên lạc thường xuyên với phụ huynh của tất cả sinh viên",
+            "Tổ chức các hoạt động ngoại khóa, văn nghệ, thể thao cho lớp",
+            "Tạo động lực học tập tích cực cho sinh viên"
+        ]
+    },
+    {
+        "question": "Sinh viên có hành vi uống rượu, bia trong giờ học lần thứ ba sẽ bị xử lý kỷ luật như thế nào?",
+        "startIndex": 484,
+        "endIndex": 485,
+        "correctAnswer": "Đình chỉ học tập 1 học kỳ",
+        "answer": [
+            "Cảnh cáo",
+            "Đình chỉ học tập 1 học kỳ",
+            "Đình chỉ học tập 1 năm học",
+            "Buộc thôi học"
+        ]
+    },
+    {
+        "question": "Theo thang điểm 100, sinh viên đạt từ 80 đến dưới 90 điểm rèn luyện sẽ được xếp loại gì?",
+        "startIndex": 490,
+        "endIndex": 491,
+        "correctAnswer": "Tốt",
+        "answer": [
+            "Xuất sắc",
+            "Tốt",
+            "Khá",
+            "Trung bình"
+        ]
+    },
+    {
+        "question": "Đâu là một trong các nội dung đánh giá kết quả rèn luyện của sinh viên?",
+        "startIndex": 496,
+        "endIndex": 496,
+        "correctAnswer": "Phẩm chất công dân, trách nhiệm và quan hệ với cộng đồng",
+        "answer": [
+            "Mức độ tham gia các hoạt động ngoại khóa quốc tế",
+            "Phẩm chất công dân, trách nhiệm và quan hệ với cộng đồng",
+            "Kết quả tài chính cá nhân và khả năng tự chủ",
+            "Mức độ nổi tiếng trên mạng xã hội"
+        ]
+    },
+    {
+        "question": "Ủy viên thường trực của Hội đồng khen thưởng và Hội đồng kỷ luật sinh viên là ai?",
+        "startIndex": 502,
+        "endIndex": 503,
+        "correctAnswer": "Trưởng ban Ban Công tác sinh viên",
+        "answer": [
+            "Giám đốc Đại học",
+            "Đại diện Đoàn Thanh niên",
+            "Trưởng ban Ban Công tác sinh viên",
+            "Đại diện Ban Đào tạo"
+        ]
+    },
+    {
+        "question": "Theo sổ tay sinh viên 2025, sinh viên nên xây dựng một quỹ dự phòng với số tiền tối thiểu tương đương bao nhiêu tháng chỉ tiêu thiết yếu để sử dụng cho các trường hợp khẩn cấp như ốm đau, tai nạn?",
+        "startIndex": 508,
+        "endIndex": 510,
+        "correctAnswer": "3 tháng",
+        "answer": [
+            "1 tháng",
+            "3 tháng",
+            "6 tháng",
+            "12 tháng"
+        ]
+    },
+    {
+        "question": "Hành vi nào sau đây sinh viên KHÔNG được làm?",
+        "startIndex": 515,
+        "endIndex": 515,
+        "correctAnswer": "Gian lận trong học tập, kiểm tra, thi cử như quay cóp, mang tài liệu không được phép vào phòng",
+        "answer": [
+            "Góp ý kiến với lãnh đạo Đại học về các vấn đề liên quan đến sinh viên",
+            "Tham gia các hoạt động nghiên cứu khoa học, đổi mới sáng tạo",
+            "Gian lận trong học tập, kiểm tra, thi cử như quay cóp, mang tài liệu không được phép vào phòng thi",
+            "Đăng ký xét, cấp các học bổng của Đại học"
+        ]
+    },
+    {
+        "question": "Việc tham gia hiến máu nhân đạo do Đại học và các tổ chức hợp pháp phát động được cộng bao nhiêu điểm?",
+        "startIndex": 521,
+        "endIndex": 522,
+        "correctAnswer": "6 điểm",
+        "answer": [
+            "3 điểm",
+            "6 điểm",
+            "4 điểm",
+            "12 điểm"
+        ]
+    },
+    {
+        "question": "Đâu là một trong những hành động được khuyên để nhận diện và phòng tránh lừa đảo tài chính?",
+        "startIndex": 527,
+        "endIndex": 528,
+        "correctAnswer": "Không cung cấp thông tin cá nhân khi chưa xác định chính xác website, ứng dụng và danh tính tưvấn viên",
+        "answer": [
+            "© Cung cấp thông tin tài khoản ngân hàng và mã OTP cho các tư vấn viên uy tín để được hỗ trợnhanh",
+            "Chuyển tiền vào tài khoản cá nhân do các đối tượng lạ cung cấp để xác thực giao dịch",
+            "Tham gia các lời mời chào đầu tư có lợi nhuận thấp để đảm bảo an toàn",
+            "Không cung cấp thông tin cá nhân khi chưa xác định chính xác website, ứng dụng và danh tính tư vấn viên"
+        ]
+    },
+    {
+        "question": "Theo quy tắc ứng xử trên mạng xã hội, sinh viên không được đăng tải hay tham gia bình luận vê những nội dung nào sau đây?",
+        "startIndex": 535,
+        "endIndex": 537,
+        "answer": [
+            "Các thông tin, hình ảnh ảnh hưởng xấu đến uy tín của Nhà trường",
+            "Các lời lẽ tục tĩu, chửi bậy hoặc kích động tập thể",
+            "Phàn nàn về chính sách, cá nhân với thái độ không xây dựng"
+        ],
+        "correctAnswer": "",
+        "multipleCorrectAnswers": [
+            "Các thông tin, hình ảnh ảnh hưởng xấu đến uy tín của Nhà trường",
+            "Các lời lẽ tục tĩu, chửi bậy hoặc kích động tập thể",
+            "Phàn nàn về chính sách, cá nhân với thái độ không xây dựng"
+        ]
+    },
+    {
+        "question": "Khi cần trao đổi hoặc phản ánh công việc với giáo viên, cán bộ hay các đơn vị trong Trường, sinh viên phải sử dụng loại email nào?",
+        "startIndex": 541,
+        "endIndex": 542,
+        "correctAnswer": "Email do Đại học BKHN cấp",
+        "answer": [
+            "Bất kỳ email cá nhân nào (Gmail, Outlook,",
+            "Email được liên kết với tài khoản mạng xã hội",
+            "Email do Đại học BKHN cấp",
+            "Chỉ trao đổi trực tiếp, không khuyến khích dùng email"
+        ]
+    },
+    {
+        "question": "Trường hợp nào sau đây sinh viên sẽ KHÔNG được xét cấp học bổng KKHT?",
+        "startIndex": 547,
+        "endIndex": 547,
+        "correctAnswer": "Đăng ký học 5 tín chỉ tại học kỳ cấp học bổng",
+        "answer": [
+            "tụ",
+            "Đăng ký 16 tín chỉ tại học kỳ lấy điểm xét",
+            "GPA đạt 3.5 nhưng điểm rèn luyện là 75",
+            "Đăng ký học 5 tín chỉ tại học kỳ cấp học bổng",
+            "Là sinh viên năm thứ nhất đăng ký 15 tín chỉ trong học kỳ 1"
+        ]
+    },
+    {
+        "question": "Theo số liệu khảo sát, tỷ lệ sinh viên tại ĐHBK Hà Nội bị cảnh báo học tập là khoảng bao nhiêu?",
+        "startIndex": 553,
+        "endIndex": 554,
+        "correctAnswer": "Khoảng 13%",
+        "answer": [
+            "Khoảng 5%",
+            "Khoảng 9%",
+            "Khoảng 13%",
+            "Khoảng 20%"
+        ]
+    },
+    {
+        "question": "Mức điểm tối đa cho tiêu chí 'Điểm về ý thức tổ chức kỷ luật' (TC2) là bao nhiêu?",
+        "startIndex": 559,
+        "endIndex": 560,
+        "correctAnswer": "25 điểm",
+        "answer": [
+            "20 điểm",
+            "25 điểm",
+            "30 điểm",
+            "15 điểm"
+        ]
+    },
+    {
+        "question": "Sinh viên có nhu cầu tư vấn trực tiếp có thể tìm đến Tổ tư vấn và hỗ trợ sinh viên ('Điểm tựa yêu thương') tại địa chỉ nào?",
+        "startIndex": 565,
+        "endIndex": 566,
+        "correctAnswer": "Phòng 101 - Nhà C1",
+        "answer": [
+            "Phòng 103 - Nhà C1",
+            "Phòng 101 - Nhà C1",
+            "Phòng 203 - Nhà C2",
+            "Phòng 106 - Nhà D4"
+        ]
+    },
+    {
+        "question": "Vào năm 1967, Chính phủ đã quyết định tách hai khoa nào từ Trường Đại học Bách khoa Hà Nội để thành lập các trường đại học riêng?",
+        "startIndex": 571,
+        "endIndex": 572,
+        "correctAnswer": "Khoa Xây dựng và Khoa Mỏ - Địa chất",
+        "answer": [
+            "Khoa Cơ-Điện và Khoa Mỏ-Luyện kim",
+            "Khoa Xây dựng và Khoa Hóa-Thực phẩm",
+            "Khoa Mỏ-Luyện kim và Khoa Hóa-Thực phẩm",
+            "Khoa Xây dựng và Khoa Mỏ - Địa chất"
+        ]
+    },
+    {
+        "question": "Điểm rèn luyện toàn khóa của sinh viên được tính như thế nào?¡",
+        "startIndex": 577,
+        "endIndex": 577,
+        "correctAnswer": "Là trung bình cộng của điểm rèn luyện của tối thiểu 07 học kỳ",
+        "answer": [
+            "Là điểm rèn luyện của học kỳ cuối cùng",
+            "Là trung bình cộng của điểm rèn luyện tất cả các học kỳ",
+            "Là điểm cao nhất trong các năm học",
+            "Là trung bình cộng của điểm rèn luyện của tối thiểu 07 học kỳ"
+        ]
+    },
+    {
+        "question": "Theo Quy chế 2025, việc hạn chế khối lượng học tập đối với sinh viên bị cảnh báo học tập được áp dụng khi nào?",
+        "startIndex": 582,
+        "endIndex": 583,
+        "correctAnswer": "Từ mức cảnh báo 2 trở lên và chỉ áp dụng tại học kỳ 1 của năm học",
+        "answer": [
+            "Từ mức cảnh báo 1 trở lên và áp dụng cho cả hai học kỳ chính",
+            "Từ mức cảnh báo 2 trở lên và chỉ áp dụng tại học kỳ 1 của năm học",
+            "Từ mức cảnh báo 2 trở lên và áp dụng cho cả năm học",
+            "Chỉ áp dụng cho sinh viên năm thứ nhất và thứ hai"
+        ]
+    },
+    {
+        "question": "Điểm chữ đặc biệt nào đã bị loại bỏ trong Quy chế 2025?",
+        "startIndex": 588,
+        "endIndex": 588,
+        "correctAnswer": "Điểm K (điểm học phần khi nghỉ học tạm thời)",
+        "answer": [
+            "Điểm I (chưa hoàn thiện do hoãn thi)",
+            "Điểm X (chưa hoàn thiện do thiếu dữ liệu)",
+            "Điểm W (rút đăng ký học phần)",
+            "Điểm K (điểm học phần khi nghỉ học tạm thời)"
+        ]
+    },
+    {
+        "question": "Yếu tố nào dùng để giới hạn số tín chỉ đăng ký của sinh viên đã bị loại bỏ trong Quy chế 20252?",
+        "startIndex": 593,
+        "endIndex": 594,
+        "correctAnswer": "Tình trạng chưa đạt chuẩn ngoại ngữ theo trình độ năm học",
+        "answer": [
+            "Tình trạng cảnh báo học tập",
+            "Trình độ năm học",
+            "Tình trạng chưa đạt chuẩn ngoại ngữ theo trình độ năm học",
+            "Số tín chỉ nợ đọng"
+        ]
+    },
+    {
+        "question": "Quy chế 2025 quy định điểm liệt đối với các học phần thông thường (không phải đô án/khóa luận tốt nghiệp) là bao nhiêu?",
+        "startIndex": 599,
+        "endIndex": 600,
+        "correctAnswer": "Dưới 3 điểm",
+        "answer": [
+            "Dưới 5 điểm",
+            "Dưới 3 điểm",
+            "Dưới 4 điểm (điểm F)",
+            "Dưới 2 điểm"
+        ]
+    },
+    {
+        "question": "Khi nào sinh viên bị nâng hai mức cảnh báo học tập trong một học kỳ?;",
+        "startIndex": 605,
+        "endIndex": 605,
+        "correctAnswer": "Khi có số TC không đạt trong học kỳ lớn hơn 16 hoặc tự ý bỏ học",
+        "answer": [
+            "Khi có số TC không đạt trong học kỳ lớn hơn 8",
+            "Khi có số TC nợ đọng từ đầu khóa lớn hơn 24",
+            "Khi có số TC không đạt trong học kỳ lớn hơn 16 hoặc tự ý bỏ học",
+            "Khi có điểm GPA dưới 1"
+        ]
+    },
+    {
+        "question": "Theo Quy chế 2025, hai học phần được coi là tương đương khi có nội dung chuyên môn trùng lặp ở mức nào?)",
+        "startIndex": 610,
+        "endIndex": 611,
+        "correctAnswer": "Tối thiểu 70%",
+        "answer": [
+            "Tối thiểu 50%",
+            "Tối thiểu 60%",
+            "Tối thiểu 70%",
+            "Chính xác 80%"
+        ]
+    },
+    {
+        "question": "Việc tham gia chiến dịch tình nguyện 'mùa hè xanh' được cộng bao nhiêu điểm?",
+        "startIndex": 616,
+        "endIndex": 617,
+        "correctAnswer": "6 điểm",
+        "answer": [
+            "3 điểm",
+            "6 điểm",
+            "4 điểm",
+            "12 điểm"
+        ]
+    },
+    {
+        "question": "Theo Quy chế 2025, người học có được thỉ lại cuối kỳ cho các học phần bị điểm Fkhông?",
+        "startIndex": 622,
+        "endIndex": 623,
+        "correctAnswer": "Không có lần thi lại đối với tất cả các hình thức đào tạo",
+        "answer": [
+            "Được thi lại một lần đối với hình thức VLVH",
+            "Được thi lại một lần cho tất cả các hình thức đào tạo",
+            "Không có lần thi lại đối với tất cả các hình thức đào tạo",
+            "Được thi lại nếu đóng lệ phí thi lại"
+        ]
+    },
+    {
+        "question": "Theo quy định, Cố vấn học tập (CVHT) phải đáp ứng tiêu chuẩn nào sau đây?",
+        "startIndex": 628,
+        "endIndex": 628,
+        "correctAnswer": "Là giảng viên đang công tác tại đơn vị quản ngành, có chuyên môn cao, kinh nghiệm giảng dạy và nắm vững quy chế đào tạo",
+        "answer": [
+            "Là cán bộ hành chính có kinh nghiệm làm việc với sinh viên",
+            "Là sinh viên năm cuối có thành tích học tập xuất sắc",
+            "Là giảng viên đang công tác tại đơn vị quản ngành, có chuyên môn cao, kinh nghiệm giảng dạy và nắm vững quy chế đào tạo",
+            "Là bất kỳ cán bộ nào của Đại học có nguyện vọng tham gia công tác"
+        ]
+    },
+    {
+        "question": "Thông điệp chính mà Giám đốc Đại học Bách khoa Hà Nội gửi đến sinh viên trong năm học 2025-2026 là gì?",
+        "startIndex": 635,
+        "endIndex": 636,
+        "correctAnswer": "'Sinh viên Bách khoa sẵn sàng tiến vào kỷ nguyên mới'",
+        "answer": [
+            "'Học với đam mê - Sống có trách nhiệm'",
+            "'Trách nhiệm với Đất nước — Cam kết với Cộng đồng'",
+            "'Sinh viên Bách khoa sẵn sàng tiến vào kỷ nguyên mới'",
+            "'Khám phá tri thức — Sáng tạo và đổi mới'"
+        ]
+    },
+    {
+        "question": "Quy định về công tác CVHT và QLLSV được áp dụng cho đối tượng nào tại ĐHBK Hà Nội?",
+        "startIndex": 641,
+        "endIndex": 642,
+        "correctAnswer": "Sinh viên hệ đại học chính quy văn bằng thứ nhất",
+        "answer": [
+            "Tất cả sinh viên, học viên cao học và nghiên cứu sinh",
+            "Sinh viên hệ đại học chính quy văn bằng thứ nhất",
+            "Sinh viên hệ vừa học vừa làm và đào tạo từ xa",
+            "Sinh viên quốc tế và sinh viên các chương trình liên kết"
+        ]
+    },
+    {
+        "question": "Khối lượng học tập tối thiểu đối với chương trình Tiến sĩ (dành cho người đã tốt nghiệp Thạc sĩ) theo Quy chế 2025 là bao nhiêu?",
+        "startIndex": 647,
+        "endIndex": 648,
+        "correctAnswer": "106 tín chỉ",
+        "answer": [
+            "90 tín chỉ",
+            "120 tín chỉ",
+            "106 tín chỉ",
+            "151 tín chỉ"
+        ]
+    },
+    {
+        "question": "Ban nào có chức năng thực hiện chiến lược truyền thông tuyển sinh và tư vấn hướng nghiệp cho học sinh phổ thông?",
+        "startIndex": 653,
+        "endIndex": 654,
+        "correctAnswer": "Ban Tuyển sinh — Hướng nghiệp",
+        "answer": [
+            "Ban Hợp tác đối ngoại",
+            "Ban Công tác sinh viên",
+            "Ban Tuyển sinh — Hướng nghiệp",
+            "Ban Đào tạo"
+        ]
+    },
+    {
+        "question": "Một trong những 'Tip' được gợi ý để làm tốt vai trò CVHT và QLLSV là gì?",
+        "startIndex": 659,
+        "endIndex": 659,
+        "correctAnswer": "Chủ động lập kênh thông tin online (Zalo, Teams) với lớp và có lịch làm việc riêng với sinh viênhọc tập kém",
+        "answer": [
+            "Chỉ làm việc với cán bộ lớp để tiết kiệm thời gian",
+            "Gặp gỡ toàn bộ sinh viên mỗi tuần một lần",
+            "Chủ động lập kênh thông tin online (Zalo, Teams) với lớp và có lịch làm việc riêng với sinh viênhọc tập kém",
+            "Chỉ liên hệ với sinh viên khi có yêu cầu từ cấp trên"
+        ]
+    },
+    {
+        "question": "Đối với sinh viên bị kỷ luật khiển trách, quyết định kỷ luật sẽ chấm dứt hiệu lực sau bao lâu nếu không tái phạm?",
+        "startIndex": 666,
+        "endIndex": 667,
+        "correctAnswer": "3 tháng",
+        "answer": [
+            "1 tháng",
+            "3 tháng",
+            "6 tháng",
+            "12 tháng"
+        ]
+    },
+    {
+        "question": "Sinh viên tham gia hỗ trợ công tác CVHT cân đáp ứng tiêu chuẩn nào? r1",
+        "startIndex": 672,
+        "endIndex": 672,
+        "correctAnswer": "Là sinh viên từ năm thứ 3 trở đi, có kết quả học tập và rèn luyện từ loại giỏi trở lên",
+        "answer": [
+            "Là sinh viên từ năm thứ hai trở đi, học lực khá",
+            "Là sinh viên bất kỳ năm nào, có điểm rèn luyện tốt",
+            "Là sinh viên năm nhất có thành tích đầu vào cao",
+            "Là sinh viên từ năm thứ 3 trở đi, có kết quả học tập và rèn luyện từ loại giỏi trở lên"
+        ]
+    },
+    {
+        "question": "Công cụ nào được sử dụng để hỗ trợ thực hiện quy trình đánh giá kết quả rèn luyện cho sinh viên?I}",
+        "startIndex": 677,
+        "endIndex": 678,
+        "correctAnswer": "Hệ thống sổ tay công tác sinh viên trực tuyến (iCTSV)",
+        "answer": [
+            "Hệ thống email nội bộ",
+            "Bảng tin của các khoa/viện",
+            "Hệ thống sổ tay công tác sinh viên trực tuyến (iCTSV)",
+            "Mạng xã hội chính thức của trường"
+        ]
+    },
+    {
+        "question": "Hình thức tư vấn nào sau đây KHÔNG được liệt kê trong các chương trình của Tổ tư vấn và hỗ trợ sinh viên?",
+        "startIndex": 683,
+        "endIndex": 685,
+        "correctAnswer": "Tư vẫn: Khởi nghiệp và đầu tư mạo hiểm",
+        "answer": [
+            "Tư vẫn: Gỡ rối học tập",
+            "Tư vấn: Tâm lý",
+            "Tư vấn: Cuộc sống và Giới",
+            "Tư vẫn: Khởi nghiệp và đầu tư mạo hiểm"
+        ]
+    },
+    {
+        "question": "Đâu là Cổng thông tin việc làm trực tuyến chính thức của Đại học Bách khoa Hà Nội, nơi kết nối sinh viên với các nhà tuyển dụng?",
+        "startIndex": 690,
+        "endIndex": 691,
+        "answer": [
+            "vieclam.hust.edu.vn",
+            "ctsv.hust.edu.vn",
+            "work.hust.edu.vn",
+            "jobfair.hust.edu.vn"
+        ],
+        "correctAnswer": "",
+        "multipleCorrectAnswers": [
+            "ctsv.hust.edu.vn",
+            "work.hust.edu.vn"
+        ]
+    },
+    {
+        "question": "Học bổng Trần Đại Nghĩa có mấy mức và giá trị của các mức đó là bao nhiêu?",
+        "startIndex": 696,
+        "endIndex": 697,
+        "correctAnswer": "2 mức, tương ứng 50% và 100% học phí",
+        "answer": [
+            "1 mức, tương ứng 75% học phí",
+            "3 mức, tương ứng 50%, 75% và 100% học phí",
+            "2 mức, tương ứng 50% và 100% học phí",
+            "2 mức, tương ứng 1"
+        ]
+    },
+    {
+        "question": "119. Sinh viên xin nghỉ học tạm thời vì lý do cá nhân (không phải ốm đau, tai nạn, quân sự) sẽ bị xét buộc thôi học nếu nghỉ quá bao nhiêu học kỳ chính?",
+        "startIndex": 702,
+        "endIndex": 703,
+        "correctAnswer": "4 học kỳ chính",
+        "answer": [
+            "2 học kỳ chính",
+            "3 học kỳ chính",
+            "4 học kỳ chính",
+            "5 học kỳ chính"
+        ]
+    },
+    {
+        "question": "Đâu là một trong những sứ mệnh chính của Tổ tư vấn và hỗ trợ sinh viên?",
+        "startIndex": 708,
+        "endIndex": 708,
+        "correctAnswer": "Hỗ trợ sinh viên gặp khó khăn về học tập và tâm lý, cải thiện phương pháp học và kỹ năng sống",
+        "answer": [
+            "Cấp học bổng và hỗ trợ tài chính cho sinh viên nghèo vượt khó",
+            "Tổ chức các hoạt động ngoại khóa, tình nguyện và thể thao",
+            "Hỗ trợ sinh viên gặp khó khăn về học tập và tâm lý, cải thiện phương pháp học và kỹ năng sống",
+            "Giới thiệu việc làm thêm và cơ hội thực tập tại doanh nghiệp"
+        ]
+    },
+    {
+        "question": "Đâu là một trong những trách nhiệm của sinh viên được quy định trong Quy chế?",
+        "startIndex": 713,
+        "endIndex": 714,
+        "correctAnswer": "Đóng học phí, bảo hiểm y tế và các khoản phí khác đầy đủ, đúng quy định",
+        "answer": [
+            "Yêu cầu nhà trường cung cấp trang thiết bị học tập cá nhân",
+            "Đóng học phí, bảo hiểm y tế và các khoản phí khác đầy đủ, đúng quy định",
+            "Được miễn trừ mọi hoạt động xã hội do nhà trường tổ chức",
+            "Tự do sử dụng tài sản của nhà trường cho mục đích cá nhân"
+        ]
+    },
+    {
+        "question": "Danh hiệu 'Sinh viên xuất sắc năm học” được tặng cho sinh viên đáp ứng điều kiện nào?",
+        "startIndex": 719,
+        "endIndex": 720,
+        "correctAnswer": "Đồng thời có kết quả học tập và kết quả rèn luyện trung bình năm học đạt loại xuất sắc",
+        "answer": [
+            "Có kết quả học tập trung bình năm học đạt loại xuất sắc",
+            "Có kết quả rèn luyện trung bình năm học đạt loại xuất sắc",
+            "Có nhiều đóng góp tích cực trong hoạt động phong trào",
+            "Đồng thời có kết quả học tập và kết quả rèn luyện trung bình năm học đạt loại xuất sắc"
+        ]
+    },
+    {
+        "question": "Nếu sinh viên không tham gia đánh giá điểm rèn luyện tại một học kỳ, kết quả rèn luyện của học kỳ đó sẽ bị xếp loại gì?",
+        "startIndex": 725,
+        "endIndex": 726,
+        "correctAnswer": "Kém",
+        "answer": [
+            "Yếu",
+            "Trung bình",
+            "Kém",
+            "Không xếp loại"
+        ]
+    },
+    {
+        "question": "Theo Quy chế, hành vi nào bị cấm trong khuôn viên Đại học?",
+        "startIndex": 731,
+        "endIndex": 731,
+        "correctAnswer": "Hút thuốc, uống rượu, bia trong khuôn viên Đại học",
+        "answer": [
+            "Tổ chức các hoạt động câu lạc bộ học thuật",
+            "Sử dụng mạng internet để phục vụ học tập",
+            "Tham gia các hoạt động thể dục thể thao",
+            "Hút thuốc, uống rượu, bia trong khuôn viên Đại học"
+        ]
+    },
+    {
+        "question": "Kết quả rèn luyện của sinh viên được phân loại 'Xuất sắc' khi đạt mức điểm nào?)",
+        "startIndex": 736,
+        "endIndex": 737,
+        "correctAnswer": "Từ 90 đến 100 điểm",
+        "answer": [
+            "Từ 80 đến 89 điểm",
+            "Từ 90 đến 100 điểm",
+            "Từ 85 đến 100 điểm",
+            "100 điểm tuyệt đối"
+        ]
+    },
+    {
+        "question": "Nhà trường đã đưa ra những cam kết nào để đồng hành cùng sinh viên trong năm học mới?",
+        "startIndex": 742,
+        "endIndex": 743,
+        "correctAnswer": "Đổi mới chương trình đào tạo, nâng cấp cơ sở vật chất, mở rộng hợp tác quốc",
+        "answer": [
+            "Đảm bảo 100% sinh viên ra trường có việc làm đúng chuyên ngành",
+            "Miễn giảm học phí cho tất cả sinh viên có thành tích học tập tốt",
+            "Đổi mới chương trình đào tạo, nâng cấp cơ sở vật chất, mở rộng hợp tác quốc",
+            "Cung cấp ký túc xá miễn phí cho sinh viên năm nhất"
+        ]
+    },
+    {
+        "question": "Ban Khoa học & Công nghệ có nhiệm vụ chính là gì?",
+        "startIndex": 748,
+        "endIndex": 748,
+        "correctAnswer": "Quản lý, hỗ trợ các đơn vị và cá nhân trong hoạt động nghiên cứu và đổi mới sáng tạo",
+        "answer": [
+            "Quản lý, hỗ trợ các đơn vị và cá nhân trong hoạt động nghiên cứu và đổi mới sáng tạo",
+            "Phát triển mạng lưới hợp tác với các đối tác giáo dục và doanh nghiệp",
+            "Xây dựng và triển khai các chương trình đào tạo mới",
+            "Tổ chức các cuộc thi Olympic và học thuật cho sinh viên"
+        ]
+    },
+    {
+        "question": "Hành vi 'Tổ chức đánh bạc' lân đầu sẽ bị xử lý như thế nào?",
+        "startIndex": 753,
+        "endIndex": 753,
+        "correctAnswer": "Buộc thôi học và chuyển cơ quan chức năng xử lý theo quy định của pháp luật",
+        "answer": [
+            "Đình chỉ học tập 1 năm học",
+            "Buộc thôi học và chuyển cơ quan chức năng xử lý theo quy định của pháp luật",
+            "Cảnh cáo toàn trường",
+            "Khiển trách và phải bồi thường"
+        ]
+    },
+    {
+        "question": "Đâu KHÔNG phải là nhiệm vụ của một Cố vấn học tập (CVHT)?",
+        "startIndex": 758,
+        "endIndex": 758,
+        "correctAnswer": "Chủ trì họp lớp đánh giá kết quả rèn luyện của sinh viên",
+        "answer": [
+            "Tư vấn cho sinh viên về chương trình đào tạo, mục tiêu môn học",
+            "Chủ trì họp lớp đánh giá kết quả rèn luyện của sinh viên",
+            "Hướng dẫn sinh viên tham gia các hoạt động học thuật, nghiên cứu khoa học",
+            "Hỗ trợ sinh viên xây dựng kế hoạch học tập phù hợp với năng lực"
+        ]
+    },
+    {
+        "question": "Trường Đại học Bách khoa Hà Nội được thành lập theo nghị định 147/NĐ vào ngày tháng năm nào?",
+        "startIndex": 763,
+        "endIndex": 764,
+        "correctAnswer": "06/03/1956",
+        "answer": [
+            "15/10/1956",
+            "07/11/1960",
+            "06/03/1956",
+            "02/12/2022"
+        ]
+    },
+    {
+        "question": "Quy định về trang phục khi đến trường của sinh viên Bách khoa là gì?",
+        "startIndex": 769,
+        "endIndex": 769,
+        "correctAnswer": "Mặc trang phục giản dị, kín đáo, gọn gàng, lịch sự, phù hợp với môi trường học đường",
+        "answer": [
+            "Mặc trang phục tự do, thể hiện cá tính",
+            "Mặc trang phục giản dị, kín đáo, gọn gàng, lịch sự, phù hợp với môi trường học đường",
+            "Phải mặc đồng phục của Nhà trường trong tất cả các ngày học",
+            "Chỉ cần đeo thẻ sinh viên, không bắt buộc về trang phục"
+        ]
+    },
+    {
+        "question": "Đại diện cho lớp sinh viên là ai?)",
+        "startIndex": 774,
+        "endIndex": 774,
+        "correctAnswer": "Ban cán sự lớp gồm lớp trưởng và tối đa 2 lớp phó",
+        "answer": [
+            "Cán bộ quản lý lớp sinh viên",
+            "Bí thư chỉ đoàn",
+            "Ban cán sự lớp gồm lớp trưởng và tối đa 2 lớp phó",
+            "Toàn thể sinh viên trong lớp"
+        ]
+    },
+    {
+        "question": "Trường hợp nào sinh viên không được xét khen thưởng?",
+        "startIndex": 779,
+        "endIndex": 779,
+        "correctAnswer": "Sinh viên đang trong thời gian xem xét kỷ luật hoặc đang trong thời gian thi hành kỷ luật",
+        "answer": [
+            "Sinh viên có hoàn cảnh khó khăn",
+            "Sinh viên học vượt tiến độ",
+            "Sinh viên đang trong thời gian xem xét kỷ luật hoặc đang trong thời gian thi hành kỷ luật",
+            "Sinh viên tham gia các hoạt động trao đổi quốc tế"
+        ]
+    },
+    {
+        "question": "Đơn vị nào là đầu mối, chủ trì hoạt động đánh giá kết quả rèn luyện cho sinh viên?",
+        "startIndex": 784,
+        "endIndex": 785,
+        "correctAnswer": "Ban Công tác Sinh viên",
+        "answer": [
+            "Ban Đào tạo",
+            "Ban Công tác Sinh viên",
+            "Đoàn Thanh niên, Hội sinh viên",
+            "Các Trường /Khoa đào tạo"
+        ]
+    },
+    {
+        "question": "Quy chế này áp dụng cho đối tượng nào tại Đại học Bách khoa Hà Nội?",
+        "startIndex": 790,
+        "endIndex": 790,
+        "correctAnswer": "Sinh viên đại học hệ chính quy văn bằng thứ nhất",
+        "answer": [
+            "Sinh viên hệ tại chức và từ xa",
+            "Sinh viên quốc tế và học viên cao học",
+            "Sinh viên đại học hệ chính quy văn bằng thứ nhất",
+            "Toàn bộ người học tại Đại học Bách khoa Hà Nội"
+        ]
+    },
+    {
+        "question": "Nội dung giáo dục pháp luật đối với sinh viên tập trung vào các vấn đề nào?",
+        "startIndex": 795,
+        "endIndex": 795,
+        "correctAnswer": "Các quy chế về học tập và rèn luyện; pháp luật về phòng chống tội phạm, tệ nạn xã hội; Luật an ninh mạng; đảm bảo trật tự an toàn giao thông",
+        "answer": [
+            "Chỉ tập trung vào Luật Giáo dục đại học",
+            "Các quy chế về học tập và rèn luyện; pháp luật về phòng chống tội phạm, tệ nạn xã hội; Luật an ninh mạng; đảm bảo trật tự an toàn giao thông",
+            "Chỉ tập trung vào các quy định về tài chính của Đại học",
+            "Các vấn đề liên quan đến luật dân sự và hình sự quốc tế"
+        ]
+    },
+    {
+        "question": "Sinh viên có hành vi đánh bạc lần thứ ba sẽ bị xử lý theo hình thức nào?",
+        "startIndex": 802,
+        "endIndex": 802,
+        "correctAnswer": "Đình chỉ học tập 1 năm học",
+        "answer": [
+            "t",
+            "Cảnh cáo",
+            "Đình chỉ học tập 1 học kỳ",
+            "Đình chỉ học tập 1 năm học",
+            "Buộc thôi học"
+        ]
+    },
+    {
+        "question": "Quy định nào vê cấu trúc học kỳ chính đã được loại bỏ trong Quy chế 2025?",
+        "startIndex": 808,
+        "endIndex": 808,
+        "correctAnswer": "Một học kỳ chính có thể được chia thành 2 đợt A và B",
+        "answer": [
+            "Một năm học có hai học kỳ chính và một học kỳ hè",
+            "Học kỳ hè được tổ chức theo yêu cầu của người học",
+            "Một học kỳ chính có thể được chia thành 2 đợt A và B",
+            "Lịch học tuân theo Khung kế hoạch năm học"
+        ]
+    },
+    {
+        "question": "Sinh viên bị xếp loại rèn luyện Yếu/Kém trong hai học kỳ liên tiếp sẽ phải đối mặt với hình thức xử lý nào?",
+        "startIndex": 814,
+        "endIndex": 815,
+        "correctAnswer": "Bị hạn chế đăng ký học tập tương đương cảnh báo học tập mức 2",
+        "answer": [
+            "Bị buộc thôi học",
+            "Bị cảnh cáo học tập mức 1",
+            "Bị hạn chế đăng ký học tập tương đương cảnh báo học tập mức 2",
+            "Không được xét học bổng trong các kỳ tiếp theo"
+        ]
+    },
+    {
+        "question": "Theo Phụ lục về khung xử lý kỷ luật, hành vi nhờ người khác vào phòng thi để thi thay hoặc vào phòng thi thay người khác lần đầu sẽ bị xử lý như thế nào?",
+        "startIndex": 820,
+        "endIndex": 821,
+        "correctAnswer": "Đình chỉ học tập 1 năm học",
+        "answer": [
+            "Khiển trách",
+            "Cảnh cáo",
+            "Đình chỉ học tập 1 năm học",
+            "Buộc thôi học"
+        ]
+    },
+    {
+        "question": "Để đạt được Học bổng Khuyến khích học tập (KKHT) loại Xuất sắc, sinh viên cân đáp ứng điều kiện nào?",
+        "startIndex": 827,
+        "endIndex": 828,
+        "correctAnswer": "GPA >= 3.6 và Điểm rèn luyện học kỳ >= 90 điểm",
+        "answer": [
+            "GPA >= 3.6 và Điểm rèn luyện học kỳ >= 90 điểm",
+            "GPA >= 3.2 và Điểm rèn luyện học kỳ >= 80 điểm",
+            "GPA >= 3.6 và Điểm rèn luyện học kỳ >= 80 điểm",
+            "GPA >= 3.2 và Điểm rèn luyện học kỳ >= 90 điểm"
+        ]
+    },
+    {
+        "question": "Nguyên tắc cốt lõi nào trong quản lý ngân sách được nhấn mạnh cho sinh viên?",
+        "startIndex": 833,
+        "endIndex": 833,
+        "correctAnswer": "Luôn giữ cho chỉ tiêu nhỏ hơn thu nhập và tiết kiệm trước khi chỉ tiêu",
+        "answer": [
+            "Chi tiêu hết thu nhập để tận hưởng cuộc sống và không cần tiết kiệm",
+            "Luôn giữ cho chỉ tiêu nhỏ hơn thu nhập và tiết kiệm trước khi chỉ tiêu",
+            "Ưu tiên đầu tư mạo hiểm để tạo thu nhập thụ động từ sớm",
+            "Chỉ vay tiền tại các tổ chức cho vay uy tín để phục vụ mục đích hưởng thụ"
+        ]
+    },
+    {
+        "question": "Mức học bổng KKHT loại Giỏi bằng bao nhiêu lân mức học bổng loại Khá?",
+        "startIndex": 838,
+        "endIndex": 838,
+        "correctAnswer": "1.2 lần",
+        "answer": [
+            "1.5 lần",
+            "1.2 lần",
+            "2.0 lần",
+            "Bằng với mức học bổng loại Khá"
+        ]
+    },
+    {
+        "question": "'Học phần tiên quyết' được định nghĩa như thế nào trong Quy chế 20252?",
+        "startIndex": 844,
+        "endIndex": 844,
+        "correctAnswer": "Phải hoàn thành học phần A (với mức điểm đạt) mới được dự lớp học phần B",
+        "answer": [
+            "Phải đăng ký và học xong học phần A mới được dự lớp học phần B",
+            "Phải theo học trước hoặc học đồng thời với học phần B",
+            "Phải hoàn thành học phần A (với mức điểm đạt) mới được dự lớp học phần B",
+            "Phải đạt điểm B trở lên ở học phần A mới được dự lớp học phần B"
+        ]
+    },
+    {
+        "question": "Khi có khiếu nại về kết quả rèn luyện, sinh viên có khoảng thời gian khiếu nại tối thiểu là bao nhiêu ngày?",
+        "startIndex": 850,
+        "endIndex": 851,
+        "correctAnswer": "15 ngày",
+        "answer": [
+            "7 ngày",
+            "10 ngày",
+            "15 ngày",
+            "30 ngày"
+        ]
+    },
+    {
+        "question": "Trong trường hợp nào sinh viên có thể đề nghị rút học phân mà không phải đóng học phí cho học phần đó?",
+        "startIndex": 856,
+        "endIndex": 857,
+        "correctAnswer": "Rút học phần trong tuần đầu tiên của học kỳ thứ 2",
+        "answer": [
+            "Rút học phần trong 7 tuần đầu của học kỳ chính bất kỳ",
+            "Rút học phần trong tuần đầu tiên của học kỳ hè",
+            "Rút học phần trong tuần đầu tiên của học kỳ 1",
+            "Rút học phần trong tuần đầu tiên của học kỳ thứ 2"
+        ]
+    },
+    {
+        "question": "Điểm đạt tối thiểu đối với học phần tốt nghiệp (Đồ án/ Khóa luận tốt nghiệp Cử nhân) là điểm nào?",
+        "startIndex": 862,
+        "endIndex": 863,
+        "correctAnswer": "Điểm C",
+        "answer": [
+            "Điểm D",
+            "Điểm D+",
+            "Điểm C",
+            "Điểm B"
+        ]
+    },
+    {
+        "question": "Trong lời kêu gọi gửi đến sinh viên, Giám đốc nhấn mạnh điều gì là nên tảng cho tỉnh thần sáng tạo và học tập hiệu quả?",
+        "startIndex": 868,
+        "endIndex": 869,
+        "correctAnswer": "Giữ gìn sức khỏe thể chất",
+        "answer": [
+            "Tự giác, kỷ luật và kiên trì",
+            "Sống có trách nhiệm với cộng đồng",
+            "Giữ gìn sức khỏe thể chất",
+            "Học tập với đam mê cháy bỏng"
+        ]
+    },
+    {
+        "question": "Nhiệm vụ nào sau đây thuộc về cán bộ QLLSV?",
+        "startIndex": 874,
+        "endIndex": 874,
+        "correctAnswer": "Kịp thời báo cáo lãnh đạo đơn vị về các sinh viên có kết quả học tập và rèn luyện yếu, kém",
+        "answer": [
+            "Lựa chọn và đề xuất sinh viên tham gia hỗ trợ công tác CVHT",
+            "Tư vấn cho sinh viên về phương pháp học và nghiên cứu khoa học",
+            "Kịp thời báo cáo lãnh đạo đơn vị về các sinh viên có kết quả học tập và rèn luyện yếu, kém",
+            "Hướng dẫn sinh viên tiếp cận hệ thống thư viện và các nguồn học liệu"
+        ]
+    },
+    {
+        "question": "Tổ tư vấn tâm lý sinh viên, tiền thân của 'Điểm tựa yêu thương', được thành lập chính thức vào ngày tháng năm nào?",
+        "startIndex": 879,
+        "endIndex": 880,
+        "correctAnswer": "26/03/2019",
+        "answer": [
+            "30/06/2021",
+            "19/03/2019",
+            "26/03/2019",
+            "02/12/2022"
+        ]
+    }
+]
